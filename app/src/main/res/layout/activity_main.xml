@@ -8,12 +8,14 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText_val_01"/>
+        android:id="@+id/editText_val_01"
+        android:inputType="number"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText_val_02"/>
+        android:id="@+id/editText_val_02"
+        android:inputType="number"/>
 
     <Button
         android:layout_width="wrap_content"
