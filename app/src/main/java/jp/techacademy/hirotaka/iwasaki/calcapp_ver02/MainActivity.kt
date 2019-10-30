@@ -17,4 +17,8 @@ class MainActivity : AppCompatActivity() {
         //multiple_button.setOnClickListener(this)
         //divide_button.setOnClickListener(this)
     }
+
+    override fun onClick(v: View?) {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    }
 }
